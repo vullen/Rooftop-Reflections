@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-45,
+				60
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "dorigrr sing LEFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-45,
+				60
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "dorigrr sing DOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-45,
+				60
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "dorigrr sing UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-45,
+				60
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "dorigrr sing RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-45,
+				60
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "dorigrr idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dorigrr",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dorigrr",
+	"flip_x": false,
+	"healthbar_colors": [
+		78,
+		144,
+		94
+	],
+	"camera_position": [
+		0,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

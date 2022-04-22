@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bg.png">
+	<SubTexture name="bg" x="0" y="0" width="2500" height="2000"/>
+	<SubTexture name="end0000" x="2500" y="0" width="2500" height="2000"/>
+	<SubTexture name="end0001" x="2500" y="4000" width="2500" height="2000"/>
+	<SubTexture name="end0002" x="2500" y="4000" width="2500" height="2000"/>
+	<SubTexture name="end0003" x="2500" y="4000" width="2500" height="2000"/>
+	<SubTexture name="end0004" x="0" y="2000" width="2500" height="2000"/>
+	<SubTexture name="end0005" x="2500" y="2000" width="2500" height="2000"/>
+	<SubTexture name="end0006" x="2500" y="2000" width="2500" height="2000"/>
+	<SubTexture name="end0007" x="2500" y="2000" width="2500" height="2000"/>
+	<SubTexture name="end0008" x="2500" y="2000" width="2500" height="2000"/>
+	<SubTexture name="end0009" x="0" y="4000" width="2500" height="2000"/>
+	<SubTexture name="end0010" x="0" y="4000" width="2500" height="2000"/>
+	<SubTexture name="end0011" x="2500" y="4000" width="2500" height="2000"/>
+</TextureAtlas>

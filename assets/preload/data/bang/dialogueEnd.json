@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.15,
+			"portrait": "dorian",
+			"boxState": "normal",
+			"expression": "starry",
+			"text": "..."
+		},
+		{
+			"speed": 0.075,
+			"portrait": "dorian",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "..."
+		},
+		{
+			"speed": 0.06,
+			"portrait": "dorian",
+			"boxState": "normal",
+			"expression": "mumble",
+			"text": "Thanks."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorian",
+			"boxState": "normal",
+			"expression": "mumble",
+			"text": "For being here."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorian",
+			"boxState": "normal",
+			"expression": "mumble",
+			"text": "Beat it before you catch a cold."
+		},
+		{
+			"speed": 0.1,
+			"portrait": "bfRR",
+			"boxState": "normal",
+			"expression": "worry",
+			"text": "..."
+		},
+		{
+			"speed": 0.055,
+			"portrait": "dorian",
+			"boxState": "normal",
+			"expression": "mumble",
+			"text": "Hey."
+		},
+		{
+			"speed": 0.045,
+			"portrait": "dorian",
+			"boxState": "normal",
+			"expression": "mumble",
+			"text": "You're uh. A real pal, y'know?"
+		},
+		{
+			"speed": 0.045,
+			"portrait": "dorian",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I won't ditch you. Promise."
+		},
+		{
+			"speed": 0.045,
+			"portrait": "dorian",
+			"boxState": "normal",
+			"expression": "sidetalk",
+			"text": "I'm just going to chat with the rain for a bit."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorian",
+			"boxState": "normal",
+			"expression": "sidetalk",
+			"text": "Take care, shorty."
+		}
+	]
+}

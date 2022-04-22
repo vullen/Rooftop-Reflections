@@ -1,0 +1,141 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		170,
+		52
+	],
+	"scale": 1.5,
+	"animations": [
+		{
+			"loop_name": "dorian",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "dorian",
+			"anim": "idle",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "doritalk",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "doritalk",
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "dorisidetalk",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "dorisidetalk",
+			"anim": "sidetalk",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "dorisad",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "dorisad",
+			"anim": "sad",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "dorimumble",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "dorimumble",
+			"anim": "mumble",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "dorisurprise",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "dorisurprise",
+			"anim": "surprise",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "doriblush",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "doriblush",
+			"anim": "blush",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "dorihappy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "dorihappy",
+			"anim": "happy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "doristarry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "doristarry",
+			"anim": "starry",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "dorinervous",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "dorinervous",
+			"anim": "nervous",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "dorianPortrait"
+}

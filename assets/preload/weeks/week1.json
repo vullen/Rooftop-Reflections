@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Drizzle", "dorigrr", [146, 113, 253]],
+		["Pieces", "dorian", [146, 113, 253]],
+		["bang", "dorian", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"dorian",
+		"bf",
+		""
+	],
+	"weekBackground": "rooftop",
+
+	"storyName": "Rooftop Reflections",
+	"weekBefore": "tutorial",
+	"weekName": "Week D",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

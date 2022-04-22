@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dorian.png">
+	<SubTexture name="dorian idle0000"  x="0" y="0" width="500" height="700"/>
+	<SubTexture name="dorian idle0001"  x="0" y="0" width="500" height="700"/>
+	<SubTexture name="dorian idle0002" x="500" y="0" width="500" height="700"/>
+	<SubTexture name="dorian idle0003" x="500" y="0" width="500" height="700"/>
+	<SubTexture name="dorian idle0004" x="1000" y="0" width="500" height="700"/>
+	<SubTexture name="dorian idle0005" x="1000" y="0" width="500" height="700"/>
+	<SubTexture name="dorian idle0006" x="1500" y="0" width="500" height="700"/>
+	<SubTexture name="dorian idle0007" x="1500" y="0" width="500" height="700"/>
+	<SubTexture name="dorian idle0008" x="2000" y="0" width="500" height="700"/>
+	<SubTexture name="dorian idle0009" x="2000" y="0" width="500" height="700"/>
+	<SubTexture name="dorian idle0010" x="2500" y="0" width="500" height="700"/>
+	<SubTexture name="dorian idle0011" x="2500" y="0" width="500" height="700"/>
+	<SubTexture name="dorian sing LEFT0000" x="0" y="700" width="500" height="700"/>
+	<SubTexture name="dorian sing LEFT0001" x="0" y="700" width="500" height="700"/>
+	<SubTexture name="dorian sing LEFT0002" x="500" y="700" width="500" height="700"/>
+	<SubTexture name="dorian sing LEFT0003" x="500" y="700" width="500" height="700"/>
+	<SubTexture name="dorian sing LEFT0004" x="500" y="700" width="500" height="700"/>
+	<SubTexture name="dorian sing LEFT0005" x="500" y="700" width="500" height="700"/>
+	<SubTexture name="dorian sing LEFT0006" x="500" y="700" width="500" height="700"/>
+	<SubTexture name="dorian sing LEFT0007" x="500" y="700" width="500" height="700"/>
+	<SubTexture name="dorian sing LEFT0008" x="500" y="700" width="500" height="700"/>
+	<SubTexture name="dorian sing LEFT0009" x="500" y="700" width="500" height="700"/>
+	<SubTexture name="dorian sing LEFT0010" x="500" y="700" width="500" height="700"/>
+	<SubTexture name="dorian sing LEFT0011" x="500" y="700" width="500" height="700"/>
+	<SubTexture name="dorian sing LEFT0012" x="500" y="700" width="500" height="700"/>
+	<SubTexture name="dorian sing LEFT0013" x="500" y="700" width="500" height="700"/>
+	<SubTexture name="dorian sing LEFT0014" x="500" y="700" width="500" height="700"/>
+	<SubTexture name="dorian sing DOWN0000" x="1000" y="700" width="500" height="700"/>
+	<SubTexture name="dorian sing DOWN0001" x="1000" y="700" width="500" height="700"/>
+	<SubTexture name="dorian sing DOWN0002" x="1500" y="700" width="500" height="700"/>
+	<SubTexture name="dorian sing DOWN0003" x="1500" y="700" width="500" height="700"/>
+	<SubTexture name="dorian sing DOWN0004" x="1500" y="700" width="500" height="700"/>
+	<SubTexture name="dorian sing DOWN0005" x="1500" y="700" width="500" height="700"/>
+	<SubTexture name="dorian sing DOWN0006" x="1500" y="700" width="500" height="700"/>
+	<SubTexture name="dorian sing DOWN0007" x="1500" y="700" width="500" height="700"/>
+	<SubTexture name="dorian sing DOWN0008" x="1500" y="700" width="500" height="700"/>
+	<SubTexture name="dorian sing DOWN0009" x="1500" y="700" width="500" height="700"/>
+	<SubTexture name="dorian sing DOWN0010" x="1500" y="700" width="500" height="700"/>
+	<SubTexture name="dorian sing DOWN0011" x="1500" y="700" width="500" height="700"/>
+	<SubTexture name="dorian sing DOWN0012" x="1500" y="700" width="500" height="700"/>
+	<SubTexture name="dorian sing DOWN0013" x="1500" y="700" width="500" height="700"/>
+	<SubTexture name="dorian sing DOWN0014" x="1500" y="700" width="500" height="700"/>
+	<SubTexture name="dorian sing UP0000" x="0" y="1400" width="500" height="700"/>
+	<SubTexture name="dorian sing UP0001" x="0" y="1400" width="500" height="700"/>
+	<SubTexture name="dorian sing UP0002" x="500" y="1400" width="500" height="700"/>
+	<SubTexture name="dorian sing UP0003" x="500" y="1400" width="500" height="700"/>
+	<SubTexture name="dorian sing UP0004" x="500" y="1400" width="500" height="700"/>
+	<SubTexture name="dorian sing UP0005" x="500" y="1400" width="500" height="700"/>
+	<SubTexture name="dorian sing UP0006" x="500" y="1400" width="500" height="700"/>
+	<SubTexture name="dorian sing UP0007" x="500" y="1400" width="500" height="700"/>
+	<SubTexture name="dorian sing UP0008" x="500" y="1400" width="500" height="700"/>
+	<SubTexture name="dorian sing UP0009" x="500" y="1400" width="500" height="700"/>
+	<SubTexture name="dorian sing UP0010" x="500" y="1400" width="500" height="700"/>
+	<SubTexture name="dorian sing UP0011" x="500" y="1400" width="500" height="700"/>
+	<SubTexture name="dorian sing UP0012" x="500" y="1400" width="500" height="700"/>
+	<SubTexture name="dorian sing UP0013" x="500" y="1400" width="500" height="700"/>
+	<SubTexture name="dorian sing UP0014" x="500" y="1400" width="500" height="700"/>
+	<SubTexture name="dorian sing RIGHT0000" x="1000" y="1400" width="500" height="700"/>
+	<SubTexture name="dorian sing RIGHT0001" x="1000" y="1400" width="500" height="700"/>
+	<SubTexture name="dorian sing RIGHT0002" x="1500" y="1400" width="500" height="700"/>
+	<SubTexture name="dorian sing RIGHT0003" x="1500" y="1400" width="500" height="700"/>
+	<SubTexture name="dorian sing RIGHT0004" x="1500" y="1400" width="500" height="700"/>
+	<SubTexture name="dorian sing RIGHT0005" x="1500" y="1400" width="500" height="700"/>
+	<SubTexture name="dorian sing RIGHT0006" x="1500" y="1400" width="500" height="700"/>
+	<SubTexture name="dorian sing RIGHT0007" x="1500" y="1400" width="500" height="700"/>
+	<SubTexture name="dorian sing RIGHT0008" x="1500" y="1400" width="500" height="700"/>
+	<SubTexture name="dorian sing RIGHT0009" x="1500" y="1400" width="500" height="700"/>
+	<SubTexture name="dorian sing RIGHT0010" x="1500" y="1400" width="500" height="700"/>
+	<SubTexture name="dorian sing RIGHT0011" x="1500" y="1400" width="500" height="700"/>
+	<SubTexture name="dorian sing RIGHT0012" x="1500" y="1400" width="500" height="700"/>
+	<SubTexture name="dorian sing RIGHT0013" x="1500" y="1400" width="500" height="700"/>
+	<SubTexture name="dorian sing RIGHT0014" x="1500" y="1400" width="500" height="700"/>
+	<SubTexture name="dorian snap0000" x="2000" y="1400" width="500" height="700"/>
+	<SubTexture name="dorian snap0001" x="2000" y="1400" width="500" height="700"/>
+	<SubTexture name="dorian snap0002" x="2500" y="1400" width="500" height="700"/>
+	<SubTexture name="dorian snap0003" x="2500" y="1400" width="500" height="700"/>
+	<SubTexture name="dorian snap0004" x="2500" y="1400" width="500" height="700"/>
+	<SubTexture name="dorian snap0005" x="2500" y="1400" width="500" height="700"/>
+	<SubTexture name="dorian snap0006" x="2500" y="1400" width="500" height="700"/>
+	<SubTexture name="dorian snap0007" x="2500" y="1400" width="500" height="700"/>
+	<SubTexture name="dorian snap0008" x="2500" y="1400" width="500" height="700"/>
+	<SubTexture name="dorian snap0009" x="2500" y="1400" width="500" height="700"/>
+	<SubTexture name="dorian snap0010" x="2500" y="1400" width="500" height="700"/>
+	<SubTexture name="dorian snap0011" x="2500" y="1400" width="500" height="700"/>
+	<SubTexture name="dorian snap0012" x="2500" y="1400" width="500" height="700"/>
+	<SubTexture name="dorian snap0013" x="2500" y="1400" width="500" height="700"/>
+	<SubTexture name="dorian snap0014" x="2500" y="1400" width="500" height="700"/>
+</TextureAtlas>

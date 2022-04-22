@@ -1,0 +1,37 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		110,
+		135
+	],
+	"scale": 1.5,
+	"animations": [
+		{
+			"loop_name": "bfworry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bfworry",
+			"anim": "worry",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "bfdah",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bfdah",
+			"anim": "dah",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "bfPortrait"
+}

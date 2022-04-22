@@ -1,0 +1,11 @@
+{
+	
+	"image": "Menu_Dorian",
+	"position": [
+		160,
+		267
+	],
+	"scale": 0.43,
+	"idle_anim": "M Dorian Idle",
+	"confirm_anim": "M Dorian Idle"
+}

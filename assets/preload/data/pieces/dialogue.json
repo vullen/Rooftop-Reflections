@@ -1,0 +1,179 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.1,
+			"portrait": "dorian",
+			"boxState": "normal",
+			"expression": "idle",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorian",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I don't know you."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorian",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What do you want?"
+		},
+		{
+			"speed": 0.1,
+			"portrait": "bfRR",
+			"boxState": "normal",
+			"expression": "worry",
+			"text": "..."
+		},
+		{
+			"speed": 0.1,
+			"portrait": "dorian",
+			"boxState": "normal",
+			"expression": "idle",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorian",
+			"boxState": "normal",
+			"expression": "sidetalk",
+			"text": "Nice view, huh?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorian",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I just needed a spot to collect my thoughts."
+		},
+		{
+			"speed": 0.1,
+			"portrait": "dorian",
+			"boxState": "normal",
+			"expression": "idle",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorian",
+			"boxState": "normal",
+			"expression": "sidetalk",
+			"text": "Uh, hey."
+		},
+		{
+			"speed": 0.045,
+			"portrait": "dorian",
+			"boxState": "normal",
+			"expression": "sidetalk",
+			"text": "You ever think about just... running away?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorian",
+			"boxState": "normal",
+			"expression": "sidetalk",
+			"text": "Who would miss you?"
+		},
+		{
+			"speed": 0.045,
+			"portrait": "dorian",
+			"boxState": "normal",
+			"expression": "sidetalk",
+			"text": "I don't know where I'll go."
+		},
+		{
+			"speed": 0.045,
+			"portrait": "dorian",
+			"boxState": "normal",
+			"expression": "nervous",
+			"text": "Though I suppose a strong gust of wind might decide that for me."
+		},
+		{
+			"speed": 0.055,
+			"portrait": "dorian",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Heh."
+		},
+		{
+			"speed": 0.075,
+			"portrait": "dorian",
+			"boxState": "normal",
+			"expression": "idle",
+			"text": "..."
+		},
+		{
+			"speed": 0.045,
+			"portrait": "dorian",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "There's not much keeping me around anymore."
+		},
+		{
+			"speed": 0.045,
+			"portrait": "dorian",
+			"boxState": "normal",
+			"expression": "sidetalk",
+			"text": "I lost someone, not long ago. A good friend."
+		},
+		{
+			"speed": 0.055,
+			"portrait": "dorian",
+			"boxState": "normal",
+			"expression": "sidetalk",
+			"text": "He was... nobody. But he mattered to me."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorian",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorian",
+			"boxState": "normal",
+			"expression": "idle",
+			"text": "!"
+		},
+		{
+			"speed": 0.055,
+			"portrait": "dorian",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "S-Sorry. Uh. Zoned out for a sec."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorian",
+			"boxState": "normal",
+			"expression": "nervous",
+			"text": "Er. So you sing, huh?"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "dorian",
+			"boxState": "angry",
+			"expression": "blush",
+			"text": "(Smooth.)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfRR",
+			"boxState": "normal",
+			"expression": "dah",
+			"text": "!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorian",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Cool. Show me what else you got."
+		}
+	]
+}

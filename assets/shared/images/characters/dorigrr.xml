@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dorigrr.png">
+	<SubTexture name="dorigrr idle0000"  x="0" y="0" width="500" height="550"/>
+	<SubTexture name="dorigrr idle0001"  x="0" y="0" width="500" height="550"/>
+	<SubTexture name="dorigrr idle0002" x="500" y="0" width="500" height="550"/>
+	<SubTexture name="dorigrr idle0003" x="500" y="0" width="500" height="550"/>
+	<SubTexture name="dorigrr idle0004" x="1000" y="0" width="500" height="550"/>
+	<SubTexture name="dorigrr idle0005" x="1000" y="0" width="500" height="550"/>
+	<SubTexture name="dorigrr idle0006" x="1500" y="0" width="500" height="550"/>
+	<SubTexture name="dorigrr idle0007" x="1500" y="0" width="500" height="550"/>
+	<SubTexture name="dorigrr idle0008" x="2000" y="0" width="500" height="550"/>
+	<SubTexture name="dorigrr idle0009" x="2000" y="0" width="500" height="550"/>
+	<SubTexture name="dorigrr idle0010" x="2500" y="0" width="500" height="550"/>
+	<SubTexture name="dorigrr idle0011" x="2500" y="0" width="500" height="550"/>
+	<SubTexture name="dorigrr sing LEFT0000" x="0" y="550" width="500" height="550"/>
+	<SubTexture name="dorigrr sing LEFT0001" x="0" y="550" width="500" height="550"/>
+	<SubTexture name="dorigrr sing LEFT0002" x="500" y="550" width="500" height="550"/>
+	<SubTexture name="dorigrr sing LEFT0003" x="500" y="550" width="500" height="550"/>
+	<SubTexture name="dorigrr sing LEFT0004" x="500" y="550" width="500" height="550"/>
+	<SubTexture name="dorigrr sing LEFT0005" x="500" y="550" width="500" height="550"/>
+	<SubTexture name="dorigrr sing LEFT0006" x="500" y="550" width="500" height="550"/>
+	<SubTexture name="dorigrr sing LEFT0007" x="500" y="550" width="500" height="550"/>
+	<SubTexture name="dorigrr sing LEFT0008" x="500" y="550" width="500" height="550"/>
+	<SubTexture name="dorigrr sing LEFT0009" x="500" y="550" width="500" height="550"/>
+	<SubTexture name="dorigrr sing LEFT0010" x="500" y="550" width="500" height="550"/>
+	<SubTexture name="dorigrr sing LEFT0011" x="500" y="550" width="500" height="550"/>
+	<SubTexture name="dorigrr sing LEFT0012" x="500" y="550" width="500" height="550"/>
+	<SubTexture name="dorigrr sing LEFT0013" x="500" y="550" width="500" height="550"/>
+	<SubTexture name="dorigrr sing LEFT0014" x="500" y="550" width="500" height="550"/>
+	<SubTexture name="dorigrr sing DOWN0000" x="1000" y="550" width="500" height="550"/>
+	<SubTexture name="dorigrr sing DOWN0001" x="1000" y="550" width="500" height="550"/>
+	<SubTexture name="dorigrr sing DOWN0002" x="1500" y="550" width="500" height="550"/>
+	<SubTexture name="dorigrr sing DOWN0003" x="1500" y="550" width="500" height="550"/>
+	<SubTexture name="dorigrr sing DOWN0004" x="1500" y="550" width="500" height="550"/>
+	<SubTexture name="dorigrr sing DOWN0005" x="1500" y="550" width="500" height="550"/>
+	<SubTexture name="dorigrr sing DOWN0006" x="1500" y="550" width="500" height="550"/>
+	<SubTexture name="dorigrr sing DOWN0007" x="1500" y="550" width="500" height="550"/>
+	<SubTexture name="dorigrr sing DOWN0008" x="1500" y="550" width="500" height="550"/>
+	<SubTexture name="dorigrr sing DOWN0009" x="1500" y="550" width="500" height="550"/>
+	<SubTexture name="dorigrr sing DOWN0010" x="1500" y="550" width="500" height="550"/>
+	<SubTexture name="dorigrr sing DOWN0011" x="1500" y="550" width="500" height="550"/>
+	<SubTexture name="dorigrr sing DOWN0012" x="1500" y="550" width="500" height="550"/>
+	<SubTexture name="dorigrr sing DOWN0013" x="1500" y="550" width="500" height="550"/>
+	<SubTexture name="dorigrr sing DOWN0014" x="1500" y="550" width="500" height="550"/>
+	<SubTexture name="dorigrr sing UP0000" x="0" y="1100" width="500" height="550"/>
+	<SubTexture name="dorigrr sing UP0001" x="0" y="1100" width="500" height="550"/>
+	<SubTexture name="dorigrr sing UP0002" x="500" y="1100" width="500" height="550"/>
+	<SubTexture name="dorigrr sing UP0003" x="500" y="1100" width="500" height="550"/>
+	<SubTexture name="dorigrr sing UP0004" x="500" y="1100" width="500" height="550"/>
+	<SubTexture name="dorigrr sing UP0005" x="500" y="1100" width="500" height="550"/>
+	<SubTexture name="dorigrr sing UP0006" x="500" y="1100" width="500" height="550"/>
+	<SubTexture name="dorigrr sing UP0007" x="500" y="1100" width="500" height="550"/>
+	<SubTexture name="dorigrr sing UP0008" x="500" y="1100" width="500" height="550"/>
+	<SubTexture name="dorigrr sing UP0009" x="500" y="1100" width="500" height="550"/>
+	<SubTexture name="dorigrr sing UP0010" x="500" y="1100" width="500" height="550"/>
+	<SubTexture name="dorigrr sing UP0011" x="500" y="1100" width="500" height="550"/>
+	<SubTexture name="dorigrr sing UP0012" x="500" y="1100" width="500" height="550"/>
+	<SubTexture name="dorigrr sing UP0013" x="500" y="1100" width="500" height="550"/>
+	<SubTexture name="dorigrr sing UP0014" x="500" y="1100" width="500" height="550"/>
+	<SubTexture name="dorigrr sing RIGHT0000" x="1000" y="1100" width="500" height="550"/>
+	<SubTexture name="dorigrr sing RIGHT0001" x="1000" y="1100" width="500" height="550"/>
+	<SubTexture name="dorigrr sing RIGHT0002" x="1500" y="1100" width="500" height="550"/>
+	<SubTexture name="dorigrr sing RIGHT0003" x="1500" y="1100" width="500" height="550"/>
+	<SubTexture name="dorigrr sing RIGHT0004" x="1500" y="1100" width="500" height="550"/>
+	<SubTexture name="dorigrr sing RIGHT0005" x="1500" y="1100" width="500" height="550"/>
+	<SubTexture name="dorigrr sing RIGHT0006" x="1500" y="1100" width="500" height="550"/>
+	<SubTexture name="dorigrr sing RIGHT0007" x="1500" y="1100" width="500" height="550"/>
+	<SubTexture name="dorigrr sing RIGHT0008" x="1500" y="1100" width="500" height="550"/>
+	<SubTexture name="dorigrr sing RIGHT0009" x="1500" y="1100" width="500" height="550"/>
+	<SubTexture name="dorigrr sing RIGHT0010" x="1500" y="1100" width="500" height="550"/>
+	<SubTexture name="dorigrr sing RIGHT0011" x="1500" y="1100" width="500" height="550"/>
+	<SubTexture name="dorigrr sing RIGHT0012" x="1500" y="1100" width="500" height="550"/>
+	<SubTexture name="dorigrr sing RIGHT0013" x="1500" y="1100" width="500" height="550"/>
+	<SubTexture name="dorigrr sing RIGHT0014" x="1500" y="1100" width="500" height="550"/>
+</TextureAtlas>

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-70
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "dorian sing LEFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-70
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "dorian sing DOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-70
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "dorian sing UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-70
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "dorian sing RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-70
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "dorian idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-70
+			],
+			"anim": "snap",
+			"fps": 24,
+			"name": "dorian snap",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dorian",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dorian",
+	"flip_x": false,
+	"healthbar_colors": [
+		78,
+		144,
+		94
+	],
+	"camera_position": [
+		0,
+		70
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,123 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "dorian",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Heh. Tight."
+		},
+		{
+			"speed": 0.1,
+			"portrait": "dorian",
+			"boxState": "normal",
+			"expression": "idle",
+			"text": "..."
+		},
+		{
+			"speed": 0.045,
+			"portrait": "dorian",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...Sorry. I wish I had it in me to be chipper for ya."
+		},
+		{
+			"speed": 0.06,
+			"portrait": "dorian",
+			"boxState": "normal",
+			"expression": "mumble",
+			"text": "Everything just takes so much effort."
+		},
+		{
+			"speed": 0.1,
+			"portrait": "dorian",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorian",
+			"boxState": "normal",
+			"expression": "sidetalk",
+			"text": "Truth be told, I'm scared of leaving."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorian",
+			"boxState": "normal",
+			"expression": "sidetalk",
+			"text": "But staying is unbearable."
+		},
+		{
+			"speed": 0.1,
+			"portrait": "dorian",
+			"boxState": "normal",
+			"expression": "idle",
+			"text": "..."
+		},
+		{
+			"speed": 0.045,
+			"portrait": "dorian",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You should go. Before you start to care."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorian",
+			"boxState": "normal",
+			"expression": "sidetalk",
+			"text": "I don't want anyone to miss me."
+		},
+		{
+			"speed": 0.1,
+			"portrait": "bfRR",
+			"boxState": "normal",
+			"expression": "worry",
+			"text": "..."
+		},
+		{
+			"speed": 0.1,
+			"portrait": "dorian",
+			"boxState": "normal",
+			"expression": "idle",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorian",
+			"boxState": "normal",
+			"expression": "mumble",
+			"text": "I'm sorry. I can appreciate what you're trying to do."
+		},
+		{
+			"speed": 0.045,
+			"portrait": "dorian",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "I'm glad I got to jam out one last time."
+		},
+		{
+			"speed": 0.1,
+			"portrait": "dorian",
+			"boxState": "normal",
+			"expression": "idle",
+			"text": "..."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "dorian",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Feel like one more, shorty? You've got a few minutes before this storm rolls in."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dorian",
+			"boxState": "normal",
+			"expression": "starry",
+			"text": "Let's... make it count."
+		}
+	]
+}

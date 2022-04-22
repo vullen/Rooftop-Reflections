@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-45,
+				60
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "dorivibe sing LEFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-45,
+				60
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "dorivibe sing DOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-45,
+				60
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "dorivibe sing UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-45,
+				60
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "dorivibe sing RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-45,
+				60
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "dorivibe idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				60
+			],
+			"anim": "scratch",
+			"fps": 24,
+			"name": "dorivibe scratch",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				60
+			],
+			"anim": "keepItUp",
+			"fps": 24,
+			"name": "dorivibe keepitup",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dorivibe",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dorian",
+	"flip_x": false,
+	"healthbar_colors": [
+		78,
+		144,
+		94
+	],
+	"camera_position": [
+		0,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

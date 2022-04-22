@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dorivibe.png">
+	<SubTexture name="dorivibe idle0000"  x="0" y="0" width="500" height="550"/>
+	<SubTexture name="dorivibe idle0001"  x="0" y="0" width="500" height="550"/>
+	<SubTexture name="dorivibe idle0002" x="500" y="0" width="500" height="550"/>
+	<SubTexture name="dorivibe idle0003" x="500" y="0" width="500" height="550"/>
+	<SubTexture name="dorivibe idle0004" x="1000" y="0" width="500" height="550"/>
+	<SubTexture name="dorivibe idle0005" x="1000" y="0" width="500" height="550"/>
+	<SubTexture name="dorivibe idle0006" x="1500" y="0" width="500" height="550"/>
+	<SubTexture name="dorivibe idle0007" x="1500" y="0" width="500" height="550"/>
+	<SubTexture name="dorivibe idle0008" x="2000" y="0" width="500" height="550"/>
+	<SubTexture name="dorivibe idle0009" x="2000" y="0" width="500" height="550"/>
+	<SubTexture name="dorivibe idle0010" x="2500" y="0" width="500" height="550"/>
+	<SubTexture name="dorivibe idle0011" x="2500" y="0" width="500" height="550"/>
+	<SubTexture name="dorivibe sing LEFT0000" x="0" y="550" width="500" height="550"/>
+	<SubTexture name="dorivibe sing LEFT0001" x="0" y="550" width="500" height="550"/>
+	<SubTexture name="dorivibe sing LEFT0002" x="500" y="550" width="500" height="550"/>
+	<SubTexture name="dorivibe sing LEFT0003" x="500" y="550" width="500" height="550"/>
+	<SubTexture name="dorivibe sing LEFT0004" x="500" y="550" width="500" height="550"/>
+	<SubTexture name="dorivibe sing LEFT0005" x="500" y="550" width="500" height="550"/>
+	<SubTexture name="dorivibe sing LEFT0006" x="500" y="550" width="500" height="550"/>
+	<SubTexture name="dorivibe sing LEFT0007" x="500" y="550" width="500" height="550"/>
+	<SubTexture name="dorivibe sing LEFT0008" x="500" y="550" width="500" height="550"/>
+	<SubTexture name="dorivibe sing LEFT0009" x="500" y="550" width="500" height="550"/>
+	<SubTexture name="dorivibe sing LEFT0010" x="500" y="550" width="500" height="550"/>
+	<SubTexture name="dorivibe sing LEFT0011" x="500" y="550" width="500" height="550"/>
+	<SubTexture name="dorivibe sing LEFT0012" x="500" y="550" width="500" height="550"/>
+	<SubTexture name="dorivibe sing LEFT0013" x="500" y="550" width="500" height="550"/>
+	<SubTexture name="dorivibe sing LEFT0014" x="500" y="550" width="500" height="550"/>
+	<SubTexture name="dorivibe sing DOWN0000" x="1000" y="550" width="500" height="550"/>
+	<SubTexture name="dorivibe sing DOWN0001" x="1000" y="550" width="500" height="550"/>
+	<SubTexture name="dorivibe sing DOWN0002" x="1500" y="550" width="500" height="550"/>
+	<SubTexture name="dorivibe sing DOWN0003" x="1500" y="550" width="500" height="550"/>
+	<SubTexture name="dorivibe sing DOWN0004" x="1500" y="550" width="500" height="550"/>
+	<SubTexture name="dorivibe sing DOWN0005" x="1500" y="550" width="500" height="550"/>
+	<SubTexture name="dorivibe sing DOWN0006" x="1500" y="550" width="500" height="550"/>
+	<SubTexture name="dorivibe sing DOWN0007" x="1500" y="550" width="500" height="550"/>
+	<SubTexture name="dorivibe sing DOWN0008" x="1500" y="550" width="500" height="550"/>
+	<SubTexture name="dorivibe sing DOWN0009" x="1500" y="550" width="500" height="550"/>
+	<SubTexture name="dorivibe sing DOWN0010" x="1500" y="550" width="500" height="550"/>
+	<SubTexture name="dorivibe sing DOWN0011" x="1500" y="550" width="500" height="550"/>
+	<SubTexture name="dorivibe sing DOWN0012" x="1500" y="550" width="500" height="550"/>
+	<SubTexture name="dorivibe sing DOWN0013" x="1500" y="550" width="500" height="550"/>
+	<SubTexture name="dorivibe sing DOWN0014" x="1500" y="550" width="500" height="550"/>
+	<SubTexture name="dorivibe sing UP0000" x="0" y="1100" width="500" height="550"/>
+	<SubTexture name="dorivibe sing UP0001" x="0" y="1100" width="500" height="550"/>
+	<SubTexture name="dorivibe sing UP0002" x="500" y="1100" width="500" height="550"/>
+	<SubTexture name="dorivibe sing UP0003" x="500" y="1100" width="500" height="550"/>
+	<SubTexture name="dorivibe sing UP0004" x="500" y="1100" width="500" height="550"/>
+	<SubTexture name="dorivibe sing UP0005" x="500" y="1100" width="500" height="550"/>
+	<SubTexture name="dorivibe sing UP0006" x="500" y="1100" width="500" height="550"/>
+	<SubTexture name="dorivibe sing UP0007" x="500" y="1100" width="500" height="550"/>
+	<SubTexture name="dorivibe sing UP0008" x="500" y="1100" width="500" height="550"/>
+	<SubTexture name="dorivibe sing UP0009" x="500" y="1100" width="500" height="550"/>
+	<SubTexture name="dorivibe sing UP0010" x="500" y="1100" width="500" height="550"/>
+	<SubTexture name="dorivibe sing UP0011" x="500" y="1100" width="500" height="550"/>
+	<SubTexture name="dorivibe sing UP0012" x="500" y="1100" width="500" height="550"/>
+	<SubTexture name="dorivibe sing UP0013" x="500" y="1100" width="500" height="550"/>
+	<SubTexture name="dorivibe sing UP0014" x="500" y="1100" width="500" height="550"/>
+	<SubTexture name="dorivibe sing RIGHT0000" x="1000" y="1100" width="500" height="550"/>
+	<SubTexture name="dorivibe sing RIGHT0001" x="1000" y="1100" width="500" height="550"/>
+	<SubTexture name="dorivibe sing RIGHT0002" x="1500" y="1100" width="500" height="550"/>
+	<SubTexture name="dorivibe sing RIGHT0003" x="1500" y="1100" width="500" height="550"/>
+	<SubTexture name="dorivibe sing RIGHT0004" x="1500" y="1100" width="500" height="550"/>
+	<SubTexture name="dorivibe sing RIGHT0005" x="1500" y="1100" width="500" height="550"/>
+	<SubTexture name="dorivibe sing RIGHT0006" x="1500" y="1100" width="500" height="550"/>
+	<SubTexture name="dorivibe sing RIGHT0007" x="1500" y="1100" width="500" height="550"/>
+	<SubTexture name="dorivibe sing RIGHT0008" x="1500" y="1100" width="500" height="550"/>
+	<SubTexture name="dorivibe sing RIGHT0009" x="1500" y="1100" width="500" height="550"/>
+	<SubTexture name="dorivibe sing RIGHT0010" x="1500" y="1100" width="500" height="550"/>
+	<SubTexture name="dorivibe sing RIGHT0011" x="1500" y="1100" width="500" height="550"/>
+	<SubTexture name="dorivibe sing RIGHT0012" x="1500" y="1100" width="500" height="550"/>
+	<SubTexture name="dorivibe sing RIGHT0013" x="1500" y="1100" width="500" height="550"/>
+	<SubTexture name="dorivibe sing RIGHT0014" x="1500" y="1100" width="500" height="550"/>
+	<SubTexture name="dorivibe scratch0000" x="2000" y="550" width="500" height="550"/>
+	<SubTexture name="dorivibe scratch0001" x="2000" y="550" width="500" height="550"/>
+	<SubTexture name="dorivibe scratch0002" x="2500" y="550" width="500" height="550"/>
+	<SubTexture name="dorivibe scratch0003" x="2500" y="550" width="500" height="550"/>
+	<SubTexture name="dorivibe scratch0004" x="2000" y="1100" width="500" height="550"/>
+	<SubTexture name="dorivibe scratch0005" x="2500" y="1100" width="500" height="550"/>
+	<SubTexture name="dorivibe scratch0006" x="2500" y="1100" width="500" height="550"/>
+	<SubTexture name="dorivibe scratch0007" x="2000" y="550" width="500" height="550"/>
+	<SubTexture name="dorivibe scratch0008" x="2500" y="550" width="500" height="550"/>
+	<SubTexture name="dorivibe scratch0009" x="2500" y="550" width="500" height="550"/>
+	<SubTexture name="dorivibe scratch0010" x="2000" y="1100" width="500" height="550"/>
+	<SubTexture name="dorivibe scratch0011" x="2500" y="1100" width="500" height="550"/>
+	<SubTexture name="dorivibe scratch0012" x="2500" y="1100" width="500" height="550"/>
+	<SubTexture name="dorivibe scratch0013" x="2500" y="1100" width="500" height="550"/>
+	<SubTexture name="dorivibe keepitup0000" x="0" y="1650" width="500" height="550"/>
+	<SubTexture name="dorivibe keepitup0001" x="500" y="1650" width="500" height="550"/>
+	<SubTexture name="dorivibe keepitup0002" x="500" y="1650" width="500" height="550"/>
+	<SubTexture name="dorivibe keepitup0003" x="1000" y="1650" width="500" height="550"/>
+	<SubTexture name="dorivibe keepitup0004" x="1000" y="1650" width="500" height="550"/>
+	<SubTexture name="dorivibe keepitup0005" x="1000" y="1650" width="500" height="550"/>
+	<SubTexture name="dorivibe keepitup0006" x="1500" y="1650" width="500" height="550"/>
+	<SubTexture name="dorivibe keepitup0007" x="1500" y="1650" width="500" height="550"/>
+	<SubTexture name="dorivibe keepitup0008" x="1000" y="1650" width="500" height="550"/>
+	<SubTexture name="dorivibe keepitup0009" x="1000" y="1650" width="500" height="550"/>
+	<SubTexture name="dorivibe keepitup0010" x="500" y="1650" width="500" height="550"/>
+	<SubTexture name="dorivibe keepitup0011" x="500" y="1650" width="500" height="550"/>
+	<SubTexture name="dorivibe keepitup0012" x="2000" y="1650" width="500" height="550"/>
+	<SubTexture name="dorivibe keepitup0013" x="2000" y="1650" width="500" height="550"/>
+	<SubTexture name="dorivibe keepitup0014" x="1500" y="1650" width="500" height="550"/>
+	<SubTexture name="dorivibe keepitup0015" x="1500" y="1650" width="500" height="550"/>
+	<SubTexture name="dorivibe keepitup0016" x="1500" y="1650" width="500" height="550"/>
+	<SubTexture name="dorivibe keepitup0017" x="500" y="1650" width="500" height="550"/>
+	<SubTexture name="dorivibe keepitup0018" x="500" y="1650" width="500" height="550"/>
+	<SubTexture name="dorivibe keepitup0019" x="500" y="1650" width="500" height="550"/>
+	<SubTexture name="dorivibe keepitup0020" x="500" y="1650" width="500" height="550"/>
+	<SubTexture name="dorivibe keepitup0021" x="500" y="1650" width="500" height="550"/>
+	<SubTexture name="dorivibe keepitup0022" x="500" y="1650" width="500" height="550"/>
+	<SubTexture name="dorivibe keepitup0023" x="500" y="1650" width="500" height="550"/>
+	<SubTexture name="dorivibe keepitup0024" x="500" y="1650" width="500" height="550"/>
+</TextureAtlas>
